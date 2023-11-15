@@ -1,0 +1,8 @@
+Detta RISK spel kommer vara utformat som vanliga RISK men kanske med mindre komplexitet.
+Known bugs:
+-
+Missing features:
+-Attack multiples times
+-Cancell an Attack
+-Card system
+-More intuitive map design

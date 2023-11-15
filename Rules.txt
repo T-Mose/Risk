@@ -1,0 +1,412 @@
+INTRODUCTION & STRATEGY HINTS
+In the classic “World Domination RISK®‘” game of military strategy, you are
+battling to conquer the world. To win, you must launch daring attacks,
+defend yourself on all fronts, and sweep across vast continents with
+boldness and cunning. But remember, the dangers, as well as the rewards,
+are high. Just when the world is within your grasp, your opponent might
+strike and take it all away!
+See pages 1l- 16 for gameplay variations and variations for RISK experts.
+Strategy. In all the RISK games, keep these 3 strategy hints in mind as you
+play, add armies, and fortify:
+1.
+2.
+3.
+Conquer whole continents: You will earn more armies that way.
+(This doesn’t apply in Secret Mission Risk.)
+Watch your enemies: If they are building up forces on adjacent
+territories or continents, they may be planning an attack. Beware!
+Fortify borders adjacent to enemy territories for better defense if a
+neighbor decides to attack you.
+EQUIPMENT
+1 Tri-fold Game Board l 5 Dice: 2 white and 3 red l Deck of 56 RISK cards
+l 6 Sets of armies, each a different color
+The Game Board. The game board is a map of 6 continents divided into
+42 territories. Each continent is a different color and contains from 4 to 12
+territories. The numbers along the bottom (southern) edge of the board
+indicate the number of armies you will receive for a set of cards you trade
+in, as explained on page 7.
+The Armies. There are 6 complete sets of armies, each containing 3
+denominations of army pieces: Infantry (worth l), Cavalry (worth 5
+Infantry), and Artillery (worth 10 Infantry, or 2 Cavalry). Start the game by
+placing Infantry pieces; later in the game, you may trade in 5 Infantry for
+1 Cavalry, or 2 Cavalry (or 1 Cavalry and 5 Infantry) for 1 Artillery.
+Infantry
+1 “army”
+Cavalry
+5 “armies”
+Artillery
+10 “armies”
+The 56 RISK@ Cards: 42 marked with a territory and a picture of
+Infantry, Cavalry, or Artillery l 2 “wild” cards marked with all three pictures,
+but no territory l 12 Secret Mission cards used only in Secret Mission Risk,
+page 13.
+Sample RISK Cards:
+I Argentina India
+Infantry Cavalry
+Sample Secret Mission Card:
+Western
+Note: The 12 Secret
+Mission cards are used
+only in the Secret Mission
+RISK variation. Remove
+them for all other games.
+WORLD DOMINATION RISK®
+OBJECT OF THE GAME
+To conquer the world by occupying every territory on the board, thus
+eliminating all your opponents.
+SETUP
+Unlike most games, RISK demands careful planning before you actually
+start to play. This Initial Army Placement sets the stage for the battles you’ll
+fight later on.
+INITIAL ARMY PLACEMENT consists of these steps:
+1.
+2.
+3.
+4.
+Select a color and, depending on the number of players, count out the
+“armies” you’ll need to start the game.
+If 2 are playing, see instructions on page 11.
+If 3 are playing, each player counts out 35 Infantry.
+If 4 are playing, each player counts out 30 Infantry.
+If 5 are playing, each player counts out 25 Infantry.
+If 6 are playing, each player counts out 20 Infantry.
+Roll one die. Whoever rolls the highest number takes one Infantry piece
+from his or her pile and places it onto any territory on the board, thus
+claiming that territory.
+Starting to the left of the first player, everyone in turn places one army
+onto any unoccupied territory. Continue until all 42 territories have
+been claimed.
+After all 42 territories are claimed, each player in turn places one
+additional army onto any territory he or she already occupies. Continue
+in this way until everyone has run out of armies. There is no limit to the
+number of armies you may place onto a single territory.
+To complete game SETUP:
+5. Shuffle the pack of RISK cards (remove the Mission cards) and place it,
+face down, by the side of the board. This pack forms the draw pile.
+6. Whoever placed the first army takes the first turn.
+PLAYING
+On your turn, try to capture territories by defeating your opponents’
+armies. But be careful: Winning battles will depend on careful planning,
+quick decisions and bold moves. You’ll have to place your forces wisely,
+attack at just the right time and fortify your defenses against all enemies.
+Note: At any time during the game, you may trade in Infantry pieces for the
+equivalent (see page 4) in Cavalry or Artillery if you need to, or wish to.
+Each of your turns consists of three steps, in this order:
+1. Getting and placing new armies;
+2. Attacking, if you choose to, by rolling the dice;
+3. Fortifying your position.
+GETTING AND PLACING NEW ARMIES
+At the beginning of each turn, calculate how many new armies you’ll add
+to your territories based on . . .
+1. The number of territories you occupy;
+2. The value of the continents you control;
+3. The value of the matched sets of RISK cards you trade in;
+4. The specific territory pictured on a traded-in card.
+Territories. At the beginning of every turn (including your first), count the
+number of territories you currently occupy, then divide the total by three
+(ignore any fraction). The answer is the number of armies you receive. Place
+the new armies on any territory you already occupy.
+Example: 11 territories = 3 armies
+14 territories = 4 armies
+17 territories = 5 armies
+You will always receive at least 3 armies on a turn, even if you occupy fewer
+than 9 territories.
+Continents. In addition, at the beginning of your turn you will receive
+armies for each continent you control. (To control a continent, you must
+occupy all its territories at the start of your turn.) To find the exact number
+of armies you’ll receive for each continent, look at the chart in the lower
+left-hand corner of the game board.
+RISK CARDS
+Earning Cards. At the end of any turn in which you have captured at
+least one territory, you will earn one (and only one) RISK card. You are
+trying to collect sets of 3 cards in any of the following combinations:
+3 cards of same design
+(Infantry, Cavalry, or Artillery)
+1 each of 3 designs any 2 plus a “wild” card
+If you have collected a set of 3 RISK cards, you may turn them in at the
+beginning of your next turn, or you may wait. But if you have 5 or 6 cards at
+the beginning of your turn, you must trade in at least one set, and may
+trade in a second set if you have one.
+Trading I nCards for Armies. At the beginning of subsequent turns,
+you may trade in matched sets of cards and take additional armies based on
+the total number of sets anyone has traded in so far. For quick reference,
+keep traded-in cards face down under the bottom edge of the game board
+to mark the value (in armies) of the next trade.
+5 sets traded in so far: next set will be worth 15
+The first set traded in - 4 armies
+The second set traded in - 6 armies
+The third set traded in - 8 armies
+The fourth set traded in - 10 armies
+The fifth set traded in - 12 armies
+The sixth set traded in - 15 armies
+After the sixth set has been traded in, each additional set is worth 5 more
+armies. Example: If you trade in the seventh set, you get 20 armies; if you
+trade in the eighth, you get 25 armies, and so on. “First” and “second” set,
+etc., refer to sets traded in by anyone during the game. Thus, if you trade in
+the third set in the game, you receive 8 armies, even if it’s the first set you
+have traded in.
+Occupied territories. If any of the 3 cards you trade in shows the picture of
+a territory you occupy, you receive 2 extra armies. You must place both
+those armies onto that particular territory.
+Note: On a single turn, you may receive no more than 2 extra armies above
+and beyond those you receive for the matched sets of cards you trade in.
+Hints: No matter how many armies you receive at the start of your turn,
+deploy them carefully-either to prepare for an attack or to defend against
+one. It is good military strategy to move your armies to the front, heavily
+fortifying territories that border enemy territories.
+ATTACKING
+After placing your armies at the beginning of your turn, decide if you wish
+to attack at this time. The object of an attack is to capture a territory by
+defeating all the opposing armies already on it. The battle is fought by a roll
+of the dice. Study the board for a moment. Do you want to attack?
+If you choose not to attack, pass the dice to the player on your left. You
+may still fortify your position, if you wish (see page 10).
+If you choose to attack, you must follow these rules:
+You may only attack a territory that’s adjacent (touching) to one of your
+own, or connected to it by a dashed line. Examples: Greenland may
+attack the Northwest Territory, Ontario, Quebec and Iceland. North
+Africa may attack Egypt, Western Europe and Brazil. At the western and
+eastern edges of the board, Alaska is considered adjacent to, and may
+attack, Kamchatka.
+You must always have at least two armies in the territory you’re
+attacking from.
+You may continue attacking one territory until you have eliminated all
+armies on it, or you may shift your attack from one territory to another,
+attacking each as often as you like and attacking as many territories as
+you like during one turn.
+TO Attack. First announce both the territory you’re attacking and the one
+you’re attacking from. Then roll the dice against the opponent who
+occupies the opposing territory.
+Before rolling, both you and your opponent must announce the number
+of dice you intend to roll, and you both must roll at the same time.
+You, the attacker, will roll 1,2 or 3 red dice: You must have at least one
+more army in your territory than the number of dice you roll. Hint: The
+more dice you roll, the greater your odds of winning. Yet the more dice
+you roll, the more armies you may lose, or be required to move into a
+captured territory.
+The defender will roll either 1 or 2 white dice: To roll 2 dice, he or she
+must have at least 2 armies on the territory under attack. Hint: The more
+dice the defender rolls, the greater his or her odds of winning-but the
+more armies he or she may lose.
+To Decide a Battle. Compare the highest die each of you rolled. If yours
+(the attacker’s) is higher, the defender loses one army from the territory
+under attack. But if the defender’s die is higher than yours, you lose one
+army from the territory you attacked from; put it back in your clear plastic
+box. If each of you rolled more than one die, now compare the two
+next-highest dice and repeat the process.
+EXAMPLE 1
+Attacker’s Die Defender’s Die
+EXAMPLE 3
+Attacker’s Dice Defender’s Dice _---------- -
+Result: Defender Loses One Army
+I Result: Attacker Loses Two Armies*
+EXAMPLE 2 I EXAMPLE 4
+Attacker’s Dice Defender’s Dice Attacker’s Die Defender’s Dice _---------- -
+<ll$@ _ -Highest Pair @:,!
+--___----
+Next Highest Pair
+Result: Defender Loses One Army and I
+Attacker Loses One Army’
+Result: Defender Loses One Army
+Notes:
+l * In case of a tie, the defender always wins.
+l The attacker can never lose more than 2 armies on a single roll.
+Capturing territories. As soon as you defeat the last opposing army on
+a territory, you capture that territory and must occupy it immediately. To
+do so, move in at least as many armies as the number of dice you rolled in
+your last battle. Remember: In most cases, moving as many armies as you
+can to the front is advantageous, because armies left behind can’t help
+you when you are attacking. Also remember you must always leave at least
+one army behind on the territory you attacked from. During the game,
+every territory must always be occupied by at least one army.
+Ending your attack. You may end your attack(s) at any time. If you have
+captured at least one territory, first take the top RISK card from the draw
+pile. (No matter how many territories you’ve captured on your turn, you
+may take only one RISK card.) Your last step is to fortify your position, if
+you wish (see below). Finally, pass the dice.
+Eliminating an opponent. If during your turn you eliminate an
+opponent by defeating his or her last army on the game board, you win any
+RISK cards that player has collected.
+If winning them gives you 6 or more cards, you must immediately trade
+in enough sets to reduce your hand to 4 or fewer cards, but once your
+hand is reduced to 4,3, or 2 cards, you must stop trading.
+But if winning them gives you fewer than 6, you must wait until the
+beginning of your next turn to trade in a set.
+Note: When you draw a card from the deck at the end of your turn (for
+having won a battle), if this brings your total to 6, you must wait until
+your next turn to trade in.
+FORTIFYING YOUR POSITION
+No matter what you’ve done on your turn, you may, if you wish, end your
+turn by fortifying your position. You are not required to win a battle or even
+to try an attack to do so. Some players refer to this as the “free move.”
+To fortify your position, move as many armies as you’d like from one (and
+only one) of your territories into one (and only one) of your adjacent
+territories. Remember to move troops towards borders where they can help
+in an attack!
+In moving your armies from one territory to another, you must leave at least
+one army behind.
+WINNING
+The winner is the first player to eliminate every opponent by capturing all
+42 territories on the board.
+10
+WORLD DOMINATION RISK®
+FOR 2 PLAYERS
+Read the complete World Domination rules first.
+This version is played like regular RISK with one important exception:
+Along with your armies and those of your opponent, there are also
+“neutral” armies on the board that act as a buffer between you and your
+opponent. This feature gives the 2-player version much the same strategic
+flavor as the regular RISK game.
+SETUP
+INITIAL ARMY PLACEMENT
+You and your opponent each select a complete set of armies. Then either of
+you selects a third set to be “neutral.” Take 40 Infantry pieces from each of
+the 3 sets and claim territories in the following manner:
+1.
+2.
+3.
+Remove the Secret Mission cards and the 2 “wild” cards from the RISK
+card deck. Shuffle thoroughly and deal the cards, face down, into 3 equal
+piles. Both you and your opponent choose a different pile. The
+remaining pile is “neutral.”
+Place one of your Infantry onto each of the 14 territdries shown on the
+RISK cards in your pile. Your opponent does the same. Then place one
+“neutral” Infantry onto each of the remaining 14 “neutral” territories.
+After every territory on the board has been claimed, you and your
+opponent take turns placing your remaining armies: Place 2 Infantry
+onto any 1 or 2 of the territories you occupy. Then place 1 “neutral”
+army onto any “neutral” territory you want, placing it to block your
+opponent’s possible advance.
+To complete game SETUP:
+4. After all the armies have been placed on the board, return the two “wild”
+cards to the RISK card deck, shuffle the deck and start to play.
+11
+ATTACKING
+On your turn, you may attack any territory adjacent to one of your own.
+Whenever you attack a “neutral” territory, your opponent rolls to defend
+that “neutral” territory.
+“Neutral” armies cannot attack and never receive reinforcements during
+the game.
+WINNING
+To win, be the first to eliminate your opponent by capturing all of his or her
+territories. You do not have to eliminate the “neutral” armies.
+Usually, all “neutral” armies are eliminated before the end of the game. If
+this happens, don’t worry. Play continues until one player defeats the other.
+FOR A SHORTER “WORLD DOMINATION” GAME
+OBJECT OF THE GAME
+To capture all opposing Headquarters-while still controlling your own
+territory.
+If you wish, you may shorten the game even further:
+4 players: Capture any 2 opposing Headquarters while controlling your
+own.
+5 or 6 players: Capture any 3 opposing Headquarters while controlling your
+own.
+EQUIPMENT
+Same as in World Domination Risk. Remember to remove the Secret
+Mission cards.
+1.
+2.
+SETUP
+After deploying your armies at the beginning of the game, select one of
+the territories you’ve claimed and make it your Headquarters. Then,
+without revealing the territory you’ve chosen, find its matching RISK
+card and place it face down in front of you.
+After everyone in turn has selected a Headquarters, all players turn their
+cards face up, thus revealing the location of their Headquarters.
+PLAYING
+All World Domination Risk Rules apply, with these additions:
+l If you capture an opposing Headquarters, place the Headquarters card
+you’ve won face up in front of you to prove you’ve captured it.
+l If at any point your Headquarters is captured by an opponent, you are
+not eliminated from the game. Simply give your card to that opponent
+and continue playing.
+l You may not use a Headquarters card as part of a matched set of RISK
+cards. Be sure to keep all Headquarters cards out of the way during the
+game.
+SECRET MISSION RISK
+for 3 to 6 players
+Read the complete World Domination rules first.
+OBJECT OF THE GAME
+To be the first player to complete the Mission described on your own
+Mission card. This game is suitable for from 3 to 6 players.
+EQUIPMENT
+Use all the equipment of the World Domination game, plus the 12 Mission
+cards. These cards give each player a different mission; when that mission
+has been completed, that player automatically wins the game.
+13
+SETUP
+INITIAL, ARMY PLACEMENT
+1. Select a color and, depending on the number of players, count out the
+“armies” you’ll need to start the game.
+If 3 are playing, each player counts out 35 Infantry.
+If 4 are playing, each player counts out 30 Infantry.
+If 5 are playing, each player counts out 25 Infantry.
+If 6 are playing, each player counts out 20 Infantry.
+To complete game SETUP:
+2.
+3.
+4.
+5.
+6.
+7.
+Before play begins, elect one player to be the General. If fewer than 6 are
+playing, the General removes the Mission cards that refer to the unused
+colors.
+The General shuffles the Mission cards and, starting to the left, deals one
+card face down to each player. The remaining Mission cards are put
+back in the box; no one, including the General, may look at them.
+The General removes the 2 Wild Cards from the deck of RISK cards,
+shuffles, and deals out all the cards, starting with the player to the left.
+(In a 4- or 5-player game, 2 players will each receive one extra card.)
+These cards determine which territories each of you will occupy at the
+beginning of the game.
+Each player places one army on each of his or her territories. When
+you’ve done this, go around the table in turn, placing another army on
+each of your territories. There is no limit to the number of armies that
+can occupy a single territory. Continue until all troops have been
+deployed across the map.
+The General now collects the RISK cards, replaces the 2 Wild Cards,
+shuffles the deck, and puts it to the side, face down.
+Game play continues as in the standard World Domination game.
+WINNING
+The player who completes his or her mission first-and reveals the Mission
+card to prove it-wins.
+Important note: In Secret Mission RISK, it is possible that you will
+accomplish your mission with the aid (usually unintentional) of another
+player. For example, if your mission is to destroy all the yellow troops and
+another player actually removes the final yellow armies from the board,
+that player has helped you complete your Secret Mission.
+14
+ VARIATIONS FOR RISK EXPERTS
+ted players like to reduce the role of luck in the game. Feel
+free to use any or all of these rules variations to add skill (and length) to
+both the World Domination and Secret Mission games.
+The value of matched RISK card sets. Instead of increasing the
+value of each matched set as stated in the rules, increase its value by only
+one. Thus, the first matched set is still worth 4 armies, but the second is
+worth 5 armies, the third is worth 6 armies, and so on.
+ifying your position. At the end of your turn, you may move
+E-s from one or more territories to any number of your other territories.
+However, before you can do this, you must occupy all the territories in
+between. Example: If you want to move armies from South Africa into
+Brazil, you must first occupy the Congo and North Africa, thus forming a
+may not have moIre than 12
+.le yolu are unable to place
+some armies, you lose those armies.
+Advantage when attacking. If you have a RISK card that shows either
+the territory you’re attacking from or the territory you’re attacking:
+You may, if you wish, re-roll any one die on each battle involving that
+territory. To do so, place the card face up in front of you and roll the die
+again.
+You may use more than one card on a turn, but only one card per battle.
+Once you stop attacking the territory in question, put the RISK card back
+into your hand for future use.
+You may not use a RISK card in this manner when defending a territory.
+Commanders. Once per turn while attacking you may change one of the
+dice you’ve just rolled so that the number “6” is showing. This represents
+the influence of your “Commander” at the scene of the battle.
+RISK TOURNAMENTS
+To receive an information kit describing how to hold your own RISK
+tournament, write to us at the address below.
+We will be happy to answer questions about this game. Write: Consumer
+Relations Department, Parker Brothers, P.O. Box 1012, Beverly, MA 01915.

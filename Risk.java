@@ -1,3 +1,5 @@
+// My final project for the first semester of programing at KTH
+
 import java.nio.channels.SelectableChannel;
 import java.util.ArrayList;
 import java.util.Iterator;

@@ -7,6 +7,7 @@ public class GenerateMap {
     public static int size;
     public static Random random = new Random();
     public static GenerateMap plan;
+    public static double AMOUNT_DEAD_TERRAIN = 0.3;
 
     public static void Initiator() {
         int num = 0;
@@ -51,30 +52,82 @@ public class GenerateMap {
     }
 
     public void FillMap() {
-        // valid = false;
-        String name;
-        Player owner;
-        int troops = 1; // Easier to add later
-        // while (!valid) { // Try creating a map until one is correct
-        for (int i = 0; i < size; i++) {
-            for (int j = 0; j < size; j++) {
-                // Fill in each cell
-                boolean isActive = random.nextDouble() >= 0.2;
+        do {
+            String name;
+            Player owner;
+            int troops = 1; // Easier to add later
+            for (int i = 0; i < size; i++) {
+                for (int j = 0; j < size; j++) {
+                    // Fill in each cell
+                    boolean isActive = random.nextDouble() >= AMOUNT_DEAD_TERRAIN;
 
-                if (isActive) {
-                    name = "Cell_" + Risk.LETTERS.charAt(j) + "_" + Risk.NUMBERS.charAt(i);
-                    owner = Risk.players.get(random.nextInt(Risk.players.size()));
-                    map[i][j] = new Cell(name, owner, troops, true, i, j);
-                    owner.addTerritory(map[i][j]);
-                    owner.deployTroops(1); // To make sure every cell has at least one trooper
-                } else { // For the dead cells
-                    map[i][j] = new Cell("Water", null, 0, false, i, j);
+                    if (isActive) {
+                        name = "Cell_" + Risk.LETTERS.charAt(j) + "_" + Risk.NUMBERS.charAt(i);
+                        owner = Risk.players.get(random.nextInt(Risk.players.size()));
+                        map[i][j] = new Cell(name, owner, troops, true, i, j);
+                        owner.addTerritory(map[i][j]);
+                        owner.deployTroops(1); // To make sure every cell has at least one trooper
+                    } else { // For the dead cells
+                        map[i][j] = new Cell("Water", null, 0, false, i, j);
+                    }
                 }
             }
-            // valid = CheckIfValid(map.clone()); // Make sure the created map is allowed
-        }
+        } while (!this.isValidMap()); // Ensures corect terrain map
+
         Player.startTroops(); // Each cells should not have one troop
         SetAdjecentCells();
+    }
+    /**Uses a flood fill algoritm to see if all active cells are connected
+    /* @return wheather or not the generated map is valid*/
+    public boolean isValidMap() {
+        // Find the first active cell to start the flood fill.
+        Cell startCell = this.findFirstActiveCell();
+        if (startCell == null)
+            return false; // No active cells found, invalid map.
+
+        // Create a visited array, initialized to false.
+        boolean[][] visited = new boolean[map.length][map[0].length];
+
+        // Perform the flood fill from the start cell.
+        floodFill(map, startCell.iCoordinate, startCell.jCoordinate, visited);
+
+        // Check if all active cells were visited.
+        for (int i = 0; i < map.length; i++) {
+            for (int j = 0; j < map[i].length; j++) {
+                if (map[i][j].isActive && !visited[i][j]) {
+                    return false; // Found an unvisited active cell, invalid map.
+                }
+            }
+        }
+        return true; // All active cells are connected.
+    }
+
+    public void floodFill(Cell[][] map, int i, int j, boolean[][] visited) {
+        // Check bounds and if the cell is already visited or inactive.
+        if (i < 0 || i >= map.length || j < 0 || j >= map[0].length ||
+                visited[i][j] || !map[i][j].isActive) {
+            return;
+        }
+
+        // Mark the cell as visited.
+        visited[i][j] = true;
+
+        // Call floodFill recursively in all four directions.
+        floodFill(map, i + 1, j, visited); // South
+        floodFill(map, i - 1, j, visited); // North
+        floodFill(map, i, j + 1, visited); // East
+        floodFill(map, i, j - 1, visited); // West
+    }
+
+    public Cell findFirstActiveCell() {
+        for (int i = 0; i < map.length; i++) {
+            for (int j = 0; j < map[i].length; j++) {
+                if (map[i][j].isActive) {
+                    return map[i][j];
+                }
+            }
+        }
+        return null; // No active cells found.
     }
 
     public void SetAdjecentCells() {

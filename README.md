@@ -15,4 +15,4 @@ This is a terminal-based implementation of the classic board game **Risk**. The 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/risk-terminal.git
+   git clone https://github.com/T-Mose/Risk/main/
